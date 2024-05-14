@@ -54,28 +54,28 @@ As principais funcionalidades são depois do cadastro e login
 <br>
   npm install --global yarn
 <br>
-3)  Criação do Projeto com Vite:
+2)  Criação do Projeto com Vite:
 <br>
   yarn create vite
 <br>
 
-5) Instalação do React Router DOM:
+3) Instalação do React Router DOM:
 <br>
 yarn add react-router-dom <br>
 
-6) Instalação do React Hook Use Form:
+4) Instalação do React Hook Use Form:
 <br>
 yarn add react-hook-use-form <br>
 
-7) Instalação do React Hook Form:
+5) Instalação do React Hook Form:
 <br>
 yarn add react-hook-form <br>
 
-8) Instalação do Axios:
+6) Instalação do Axios:
 <br>
 yarn add axios <br>
 
-9) Instalação do Socket.IO Client:
+7) Instalação do Socket.IO Client:
 <br>
 yarn add socket.io-client <br>
 
