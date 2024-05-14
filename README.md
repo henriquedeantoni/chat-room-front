@@ -1,3 +1,40 @@
+# Tela Segura
+
+Descrição breve do projeto.
+
+## Telas
+
+Descreva brevemente as telas do seu projeto e, se possível, inclua imagens de cada uma delas.
+
+- Tela 1: [Descrição]
+  ![Tela 1](/caminho/para/imagem)
+
+- Tela 2: [Descrição]
+  ![Tela 2](/caminho/para/imagem)
+
+...
+
+## Funcionalidades
+
+Liste as principais funcionalidades do seu projeto, descrevendo cada uma delas.
+
+- Funcionalidade 1: [Descrição]
+- Funcionalidade 2: [Descrição]
+- ...
+
+## Roteiro de Instalação
+
+Passo a passo para instalar as bibliotecas e dependências necessárias para rodar o projeto.
+
+
+
+
+
+
+
+
+
+
 npm install --global yarn <br>
 yarn create vite <br>
 yarn add react-router-dom <br>
