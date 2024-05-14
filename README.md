@@ -10,9 +10,9 @@ A aplicação é formada por 4 telas: Cadastro, Login, Main e Tela-segura. Esta 
 
   ![tela_1](https://github.com/henriquedeantoni/desafio-front/assets/147777120/b64f2fd2-3959-4972-a803-3853849ec2ce)
   <br>
-  <p style="font-size: 16px;">Tela de Cadastro<p>
+  <p style="font-size: 20px;">Tela de Cadastro<p>
   <br>
-  ![tela_2](https://github.com/henriquedeantoni/desafio-front/assets/147777120/3a1f7fbe-7b2f-4a0c-85d0-5e9b1e75ffc6)
+  (https://github.com/henriquedeantoni/desafio-front/assets/147777120/3a1f7fbe-7b2f-4a0c-85d0-5e9b1e75ffc6)
   <br>
   <h3>Tela de Login</h3>
   <br>
