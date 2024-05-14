@@ -6,9 +6,9 @@ Por ser a parte voltada para o Cliente o foco deste trabalho é a construção d
 
 ## Telas
 
-Descreva brevemente as telas do seu projeto e, se possível, inclua imagens de cada uma delas.
+A aplicação é formada por 4 telas: Cadastro, Login, Main e Tela-segura. Esta ultima pode ficar sem acesso quando tem 1 usuário acessando.
 
-- Tela 1: [Descrição]
+- Tela 1: [Cadastro]
   ![Tela 1](/caminho/para/imagem)
 
 - Tela 2: [Descrição]
