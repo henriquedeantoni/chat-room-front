@@ -4,6 +4,8 @@ Este é a parte Front End do desafio técnico, o escopo do projeto é a criaçã
 Quando uma pessoa esta acessando a tela segura ela fica bloqueada para os demais usuários.
 Por ser a parte voltada para o Cliente o foco deste trabalho é a construção das telas e sua iteratividade.
 
+https://github.com/henriquedeantoni/desafio-front/assets/147777120/579b796f-b750-4744-a63c-7b2443154285
+
 ## Telas
 
 A aplicação é formada por 4 telas: Cadastro, Login, Main e Tela-segura. Esta ultima pode ficar sem acesso quando tem 1 usuário acessando.
