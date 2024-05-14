@@ -9,7 +9,9 @@ Por ser a parte voltada para o Cliente o foco deste trabalho é a construção d
 A aplicação é formada por 4 telas: Cadastro, Login, Main e Tela-segura. Esta ultima pode ficar sem acesso quando tem 1 usuário acessando.
 
 - Tela 1: [Cadastro]
-  ![Tela 1](/caminho/para/imagem)
+  ![Tela 1](/desafio-front/images/tela_1.JPG)
+
+desafio-front/images/
 
 - Tela 2: [Descrição]
   ![Tela 2](/caminho/para/imagem)
