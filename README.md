@@ -51,10 +51,12 @@ As principais funcionalidades são depois do cadastro e login
 
 
 1)  Instalação do Yarn globalmente
-npm install --global yarn
+<br>
+  npm install --global yarn
 <br>
 3)  Criação do Projeto com Vite:
-yarn create vite
+<br>
+  yarn create vite
 <br>
 
 5) Instalação do React Router DOM:
