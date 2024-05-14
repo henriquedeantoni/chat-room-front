@@ -41,7 +41,6 @@ export const Login = () => {
         <LayoutComponentsLogin>
             <form className="login-form" onSubmit={handleLogin}>
                 <span className="login-form-title">Olá! 👋</span>
-                <span className="login-form-title2">Faça login para começar a<br />gerenciar sua rotina.</span>
                 <div className="wrap-input">
                     <label className="input-names" htmlFor="username">Username</label>
                     <input 
