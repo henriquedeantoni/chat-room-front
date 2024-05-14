@@ -14,22 +14,22 @@ A aplicação é formada por 4 telas: Cadastro, Login, Main e Tela-segura. Esta 
   <br>
   (https://github.com/henriquedeantoni/desafio-front/assets/147777120/3a1f7fbe-7b2f-4a0c-85d0-5e9b1e75ffc6)
   <br>
-  <h3>Tela de Login</h3>
+  <p style="font-size: 20px;">Tela de Login</p>
   <br>
   ![tela_3](https://github.com/henriquedeantoni/desafio-front/assets/147777120/9e1e41d8-1f0b-41fe-9f2a-969492b5b731)
   <br>
-  <h3>Tela Principal</h3> 
+  <p style="font-size: 20px;">Tela Principal</p> 
   (1) - Lista de usuários presentes na tela
   (2) - Ultimas mensagens
   (3) - Botão para tela segura
   <br>
   ![tela_4](https://github.com/henriquedeantoni/desafio-front/assets/147777120/ccb92097-16b1-409c-b94f-120619f47930)
   <br>
-  <h3>Tela Segura</h3>
+  <p style="font-size: 20px;">Tela Segura</p>
   <br>
   ![tela_5](https://github.com/henriquedeantoni/desafio-front/assets/147777120/e684add4-e33f-4cc0-8d78-06a50b729ed9)
   <br>
-  <h3>Tela Segura (Bloqueada)</h3>
+  <p style="font-size: 20px;">Tela Segura (Bloqueada)</p>
 
 
 desafio-front/images/
