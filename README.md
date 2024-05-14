@@ -9,7 +9,7 @@ Por ser a parte voltada para o Cliente o foco deste trabalho é a construção d
 A aplicação é formada por 4 telas: Cadastro, Login, Main e Tela-segura. Esta ultima pode ficar sem acesso quando tem 1 usuário acessando.
 
 - Tela 1: [Cadastro]
-  ![Tela 1](/desafio-front/images/tela_1.JPG)
+  (https://github.com/henriquedeantoni/desafio-front/assets/147777120/b64f2fd2-3959-4972-a803-3853849ec2ce)
 
 desafio-front/images/
 
