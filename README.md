@@ -1,7 +1,8 @@
 # Tela Segura
 
 Este é a parte Front End do desafio técnico, o escopo do projeto é a criação de uma aplicação na qual deve conter uma tela segura em que somente pode ser acessada por no máximo 1 pessoa.
-Quando uma pessoa esta acessando a tela segura ela fica bloqueada para os demais.
+Quando uma pessoa esta acessando a tela segura ela fica bloqueada para os demais usuários.
+Por ser a parte voltada para o Cliente o foco deste trabalho é a construção das telas e sua iteratividade.
 
 ## Telas
 
