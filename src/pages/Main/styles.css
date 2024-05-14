@@ -1,0 +1,78 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    height: 100vh;
+  }
+  
+  .inner-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 30px;
+    width: 45vw;
+    min-width: 550px;
+    height: 80vh;
+    border-radius: 20px;
+    border: solid 3px #73AACAff;
+    background-color: rgb(213, 238, 240);
+  } 
+  
+  .present-users{
+    border-radius: 12px;
+    border: solid 3px #73AACAff;
+    padding: 10px 20px;
+    width: 20vw;
+    min-width: 200px;
+    background-color: rgb(237, 245, 248);
+  }
+
+  .last-messages {
+    border-radius: 12px;
+    border: solid 3px #73AACAff;
+    padding: 20px;
+    width: 20vw;
+    min-width: 200px;
+    background-color: rgb(237, 245, 248);
+    height: 50vh;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #114780;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 15px;
+    width: 180px
+
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+
+  .msg-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+
+
+    
+    width: 100%;
+  }

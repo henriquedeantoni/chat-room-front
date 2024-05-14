@@ -1,0 +1,27 @@
+
+.container {
+    display: flex;
+    width: 100vw; /* 100% da largura da viewport */
+    height: 100vh; /* 100% da altura da viewport */
+    margin:0 ;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container-login {
+    width: calc(50% - 20px);
+    margin-top: 170px;
+    gap: 48px;
+    position: relative;
+    left: 230px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.wrap-login {
+    width: 100%;
+}
