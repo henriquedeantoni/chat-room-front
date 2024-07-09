@@ -1,6 +1,6 @@
 # Tela Segura
 
-Este é a parte Front End de uma aplicação de sla de bate papo.
+Este é a parte Front End de uma aplicação de sala de bate papo.
 
 https://github.com/henriquedeantoni/desafio-front/assets/147777120/579b796f-b750-4744-a63c-7b2443154285
 
