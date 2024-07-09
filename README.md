@@ -1,8 +1,6 @@
 # Tela Segura
 
-Este é a parte Front End do desafio técnico, o escopo do projeto é a criação de uma aplicação na qual deve conter uma tela segura em que somente pode ser acessada por no máximo 1 pessoa.
-Quando uma pessoa esta acessando a tela segura ela fica bloqueada para os demais usuários.
-Por ser a parte voltada para o Cliente o foco deste trabalho é a construção das telas e sua iteratividade.
+Este é a parte Front End de uma aplicação de sla de bate papo.
 
 https://github.com/henriquedeantoni/desafio-front/assets/147777120/579b796f-b750-4744-a63c-7b2443154285
 
@@ -51,16 +49,9 @@ As principais funcionalidades são depois do cadastro e login
 
 ## Roteiro de Instalação
 
-1.  Certifique-se de ter o Node.js instalado em sua máquina.
-2.  Instale o Yarn globalmente: `npm install --global yarn`
-3.  Crie um novo projeto Vite: `yarn create vite`
-4.  Navegue até o diretório do projeto: `cd nome-do-projeto`
-5.  Adicione o React Router DOM: `yarn add react-router-dom`
-6.  Adicione o React Hook Use Form: `yarn add react-hook-use-form`
-7.  Adicione o React Hook Form: `yarn add react-hook-form`
-8.  Adicione o Axios: `yarn add axios`
-9.  Adicione o Socket.IO Client: `yarn add socket.io-client`
-10.  Inicie o servidor: yarn dev
+Para reproduzir este trabalho basta clonar o repositorio na pasta raiz do projeto através do comando:
+
+git clone https://github.com/henriquedeantoni/chat-room-front.git
 
 
 
