@@ -1,4 +1,4 @@
-# Tela Segura
+# Chat Room
 
 Este é a parte Front End de uma aplicação de sala de bate papo.
 
